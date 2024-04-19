@@ -1,28 +1,22 @@
-# Bem-vindo ao Meu Perfil do GitHub!
+# Welcome to My GitHub Profile!
 
-![Full-Stack Developer](Guide_to_Full_Stack_Development_000eb0b2d0.jpg)
+![Full-Stack Developer](https://path/to/your/image.jpg)
 
-Olá, eu sou [Seu Nome], um desenvolvedor Full-Stack apaixonado por criar soluções criativas e eficientes para problemas complexos. Com uma sólida formação em desenvolvimento web e uma mente curiosa para explorar novas tecnologias, estou constantemente buscando aprimorar minhas habilidades e aprender novas ferramentas para oferecer as melhores soluções aos meus clientes e projetos.
+Hello, I'm Rodrigo Luís Zimmermann, a Full-Stack developer currently working at Philips.
 
-## Principais Habilidades
+## GitHub Stats
 
-- **Desenvolvimento Front-End:** HTML, CSS, JavaScript, React, Angular
-- **Desenvolvimento Back-End:** Node.js, Express, ASP.NET Core
-- **Bancos de Dados:** SQL, MongoDB, Firebase
-- **Outras Tecnologias:** Git, Docker, RESTful APIs
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true)
 
-## Projetos Destacados
+## Key Skills
 
-- [Projeto 1](link-para-projeto-1): Breve descrição do projeto e tecnologias utilizadas.
-- [Projeto 2](link-para-projeto-2): Breve descrição do projeto e tecnologias utilizadas.
-- [Projeto 3](link-para-projeto-3): Breve descrição do projeto e tecnologias utilizadas.
+- **Front-End Development:** HTML, CSS, JavaScript, VUE, React and NativeBase ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![VUE](https://img.shields.io/badge/-VUE-green) ![React](https://img.shields.io/badge/-React-blueviolet) ![NativeBase](https://img.shields.io/badge/-NativeBase-lightgrey)
+- **Back-End Development:** C#, Java, Python ![C#](https://img.shields.io/badge/-C%23-purple) ![Java](https://img.shields.io/badge/-Java-red) ![Python](https://img.shields.io/badge/-Python-blue)
+- **Databases:** PL/SQL, Oracle, Firebird ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-orange) ![Oracle](https://img.shields.io/badge/-Oracle-red) ![Firebird](https://img.shields.io/badge/-Firebird-lightgrey)
+- **Other Technologies:** Git, Docker, RESTful APIs ![Git](https://img.shields.io/badge/-Git-black) ![Docker](https://img.shields.io/badge/-Docker-blue) ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-green)
 
-## Contato
+## Contact
 
-- LinkedIn: [Seu Perfil no LinkedIn](link-para-o-seu-linkedin)
-- Email: seuemail@example.com
-- Portfolio: [Seu Portfolio Online](link-para-o-seu-portfolio)
+- LinkedIn: [Your LinkedIn Profile](https://br.linkedin.com/in/rodrigo-lu%C3%ADs-zimmermann-869155180)
 
-Fique à vontade para entrar em contato comigo para colaborações, oportunidades profissionais ou apenas para trocar ideias sobre tecnologia. Estou sempre aberto a novas conexões e desafios emocionantes!
-
-Vamos construir algo incrível juntos!
+Feel free to reach out to me for collaborations, professional opportunities, or just to exchange ideas about technology. I'm always open to new connections and exciting challenges!
