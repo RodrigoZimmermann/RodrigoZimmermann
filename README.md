@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Full-Stack Developer](https://path/to/your/image.jpg)
+![Full-Stack Developer](Guide_to_Full_Stack_Development_000eb0b2d0.jpg)
 
 Hello, I'm Rodrigo Luís Zimmermann, a Full-Stack developer currently working at Philips.
 
@@ -17,6 +17,6 @@ Hello, I'm Rodrigo Luís Zimmermann, a Full-Stack developer currently working at
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn Profile](https://br.linkedin.com/in/rodrigo-lu%C3%ADs-zimmermann-869155180)
+- LinkedIn: [My LinkedIn Profile](https://br.linkedin.com/in/rodrigo-lu%C3%ADs-zimmermann-869155180)
 
 Feel free to reach out to me for collaborations, professional opportunities, or just to exchange ideas about technology. I'm always open to new connections and exciting challenges!
