@@ -6,7 +6,7 @@ Hello, I'm Rodrigo Luís Zimmermann, a Full-Stack developer currently working at
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoZimmermann&show_icons=true)
 
 ## Key Skills
 
