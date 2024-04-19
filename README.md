@@ -2,7 +2,7 @@
 
 ![Full-Stack Developer](Guide_to_Full_Stack_Development_000eb0b2d0.jpg)
 
-Hello, I'm Rodrigo Luís Zimmermann, a Full-Stack developer currently working at Philips.
+Hello, I'm Rodrigo Zimmermann, a Full-Stack developer currently working at Philips.
 
 ## GitHub Stats
 
