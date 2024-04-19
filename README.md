@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Perfil do GitHub!
 
-![Full-Stack Developer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fradixweb.com%2Fblog%2Fguide-to-full-stack-development&psig=AOvVaw2tdP_xaGALEf_e9Hwv4eGt&ust=1713648726365000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDOy5Cdz4UDFQAAAAAdAAAAABAT)
+![Full-Stack Developer](Guide_to_Full_Stack_Development_000eb0b2d0.jpg)
 
 Olá, eu sou [Seu Nome], um desenvolvedor Full-Stack apaixonado por criar soluções criativas e eficientes para problemas complexos. Com uma sólida formação em desenvolvimento web e uma mente curiosa para explorar novas tecnologias, estou constantemente buscando aprimorar minhas habilidades e aprender novas ferramentas para oferecer as melhores soluções aos meus clientes e projetos.
 
