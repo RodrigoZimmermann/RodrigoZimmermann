@@ -6,15 +6,6 @@ Hello, I'm Rodrigo Zimmermann, a Full-Stack developer currently working at Phili
 
 ## GitHub Stats
 
-- **GitHub REST API:**
-  - [GET /repos/{owner}/{repo}](https://docs.github.com/en/rest/reference/repos#get-a-repository): Retorna informações detalhadas sobre um repositório específico.
-
-- **GitHub GraphQL API:**
-  - [GraphQL Explorer](https://docs.github.com/en/graphql/overview/explorer): Explore e teste consultas GraphQL para recuperar dados específicos do GitHub.
-
-- **GitHub Status API:**
-  - [GET /status](https://www.githubstatus.com/api/v2/status.json): Retorna o status atual da plataforma GitHub, incluindo interrupções ou degradações do serviço.
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoZimmermann&show_icons=true)
 
 ## Key Skills
