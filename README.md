@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://github.com/RodrigoZimmermann/RodrigoZimmermann/assets/54085427/b9ec55d5-b24e-4078-8e76-f6fe08a374b3))]
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.droptica.com%2Fblog%2Fwhat-does-full-stack-developer-do%2F&psig=AOvVaw2tdP_xaGALEf_e9Hwv4eGt&ust=1713648726365000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDOy5Cdz4UDFQAAAAAdAAAAABAJ)]
 <h1 align="center">Hi 👋, I'm Rodrigo Luís Zimmermann</h1>
 <h3 align="center">A Back End Developer from Brazil!</h3>
 
