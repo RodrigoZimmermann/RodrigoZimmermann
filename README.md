@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/template/20220505/ourmid/pngtree-programming-and-coding-banner-working-image_1312497.jpg)](https://gsborba.io)
+[![MasterHead](![image](https://github.com/RodrigoZimmermann/RodrigoZimmermann/assets/54085427/b9ec55d5-b24e-4078-8e76-f6fe08a374b3))]
 <h1 align="center">Hi 👋, I'm Rodrigo Luís Zimmermann</h1>
 <h3 align="center">A Back End Developer from Brazil!</h3>
 
