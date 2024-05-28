@@ -6,8 +6,8 @@ Hello, I'm Rodrigo Zimmermann, a Full-Stack developer currently working at Phili
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=RodrigoZimmermann&theme=react&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoZimmermann&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=RodrigoZimmermann&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoZimmermann&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 
 ## Key Skills
 
